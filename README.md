@@ -36,7 +36,7 @@ Feel free to contribute in this all you have to do is submit a pull request.
 
 ## Authors
 
-* ** HC ** - *Initial work* - [HC](https://github.com/HoussemCharf)
+* **HC** - *Initial work* - [HC](https://github.com/HoussemCharf)
 
 
 ## License
